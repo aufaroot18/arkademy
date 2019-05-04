@@ -1,12 +1,12 @@
 const cetakPola = (input) => {
-	var data = [];
 	if (input %2 == 1) {
-		for (let i=0; i<input; i++) {
-			for (let j=0; j<input; j++) {
-				data.push("*");
+		for (var i=1; i<=input; i++) {
+			if (i == ((input+1)/2)) {
+				console.log("* * * * *");
 			}
-			console.log(data);
-			data = [];
+			else {
+				console.log("* = = = *");
+			}
 		}
 	}
 	else {
