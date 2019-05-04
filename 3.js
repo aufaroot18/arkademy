@@ -1,11 +1,28 @@
 const cetakPola = (input) => {
+	var polaNonMedian = "";
+	var polaMedian = "";
 	if (input %2 == 1) {
-		for (var i=1; i<=input; i++) {
+		for (let i=1; i<=input; i++) {
 			if (i == ((input+1)/2)) {
-				console.log("* * * * *");
+				for (let j=1; j<=input; j++) {
+					polaMedian += "* ";
+				}
+				console.log(polaMedian);
 			}
 			else {
-				console.log("* = = = *");
+				for (let j=1; j<=input; j++) {
+					if (j == 1) {
+						polaNonMedian += "* ";
+					}
+					else if (j == input) {
+						polaNonMedian += "* ";
+					}
+					else {
+						polaNonMedian += "= "
+					}
+				}
+				console.log(polaNonMedian);
+				polaNonMedian = "";
 			}
 		}
 	}
@@ -14,4 +31,4 @@ const cetakPola = (input) => {
 	}
 }
 
-cetakPola(5);
+cetakPola(9);
