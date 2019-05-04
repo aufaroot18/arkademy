@@ -43,6 +43,9 @@ Untuk menjalankan aplikasi Quick Count, lakukan langkah berikut
 - Akses url berikut: localhost/Quick-Count.
 - Aplikasi sudah bisa digunakan.
 
+Demo Aplikasi:
+![Demo Aplikasi](img/demo.jpg)
+
 ##### Credits
 Thanks to Arkademy.
 Regards, Aufa Billah.
