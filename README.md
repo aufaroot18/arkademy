@@ -32,7 +32,7 @@ JSON adalah salah satu mekanisme atau standar yang digunakan untuk melakukan per
 ### No 5
 - Buka code editor javascript: [playcode.io](https://playcode.io/).
 - Copy paste kode tersebut ke playcode.io.
-- Maka hasilnya berupa karakter aceh sebanyak jumlah yang diinput di parameter.
+- Maka hasilnya berupa karakter acak sebanyak jumlah yang diinput di parameter.
 
 ### No 6 (Quick Count).
 Untuk menjalankan aplikasi Quick Count, lakukan langkah berikut
@@ -47,4 +47,5 @@ Demo Aplikasi:
 
 ##### Credits
 Thanks to Arkademy.
+
 Regards, Aufa Billah.
