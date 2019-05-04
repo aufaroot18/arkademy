@@ -1,7 +1,6 @@
-# arkademy
-Arkademy
+# Arkademy
 
-# Jawaban Tes Arkademy
+## Jawaban Tes Arkademy
 
 Jawaban No 1 - 5, bisa dijalankan melalui:
 - Terminal yang sudah terpasang nodejs
@@ -44,7 +43,7 @@ Untuk menjalankan aplikasi Quick Count, lakukan langkah berikut
 - Aplikasi sudah bisa digunakan.
 
 Demo Aplikasi:
-![Demo Aplikasi](img/demo.jpg)
+![Demo Aplikasi](img/demo.png)
 
 ##### Credits
 Thanks to Arkademy.
